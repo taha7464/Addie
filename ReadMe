@@ -1,0 +1,3 @@
+Running server.js allows addie to reply to message. 
+Currently we have hard coded a response which user will recieve when user texts Addie. 
+In the future we will integrate Watson, Node-Red and twilio to provide the user a relevant response.
