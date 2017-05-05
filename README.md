@@ -2,6 +2,8 @@ Addie is a chatbot that utilizes Artifical Intelligence to help students study i
 
 Powered by IBM Watson, Addie communicates using natural language and texts the end user. Texting is done through Twilio.
 
+View a recorded-demo of how Addie would communicate with students: https://youtu.be/iXTqNMC9yJ8
+
 Beyond her texting capabilities, Addie also tracks a students performance and progress within her courseload. Through the Addie app, students can measure their proficiency in a course and create goals through Study Plans. They can also review audio files, textbooks, and other class recources on the fly--making their studying experience more mobile. Addie even allows students to schedule upcoming exams and control how often they want to be texted by her about the subjects that they need to cover. The Addie app makes studying convienent. 
 
 View an interactive mockup on InVision: https://invis.io/CWBIE5AY8annasad
